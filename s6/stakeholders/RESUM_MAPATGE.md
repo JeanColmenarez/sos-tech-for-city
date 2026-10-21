@@ -4,12 +4,12 @@
 | Grup d’interès | Tipus | Nivell d’afectació | Nivell d’influència |
 |---|---|---|---|
 | Persones que busquen habitatge | Directa | Alt | Baix |
-| Persones i famílies que viuen de lloguer | Directa | Alt | Baix |
+| Gent que viu de lloguer | Directa | Alt | Baix |
 | Joves i estudiants | Directa | Alt | Baix |
-| Famílies | Directe | Alt | Mitjà |
+| Famílies amb dificultats econòmiques | Directe | Alt | Baix |
 | Propietaris d’habitatges | Directa | Mitjà | Alt |
+| Propietaris d’habitatges que hi viuen al pis afectat | Directa | Alt | Mitjà |
 | Inversors | Directa | Mitjà | Alt |
-| Famílies amb dificultats econòmiques | Directa | Alt | Baix |
 | Ajuntament | Directa | Mitjà | Alt |
 | Associacions de veïns | Directa | Alt | Mitjà |
 | Bancs i entitats financeres | Indirecta | Baix | Alt |
