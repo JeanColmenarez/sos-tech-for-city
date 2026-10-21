@@ -23,8 +23,8 @@ A l' àrea metropolitana de Barcelona hi ha problemes amb l' accecibilitat a la 
 |---|---|
 | Descripció del perfil | Aquests els afecta de manera directa però, ja que ells tenen alquilat el pis a altre nucli familiar|
 | Com els afecta el problema |Els afecta de millor manera a causa de que cobren un alquiler elevat però és més dificil trobar gent que es pugui permetre el preu |
-| Necessitats |És necessita que es resolgui el tema dels preus de la vivenda o pujar els sous ja que estan molt descompensats |
-| Frustracions / pors | Por a no poder renovar el contracte de lloguer i dificultat d'oferir un projecte de vida estable als fills.|
+| Necessitats |Hi ha que trobar un balanç entre els preus i els sous |
+| Frustracions / pors | Por a no poder renovar el contracte de lloguer per que no es puguin permetre i dificultat d'oferir un projecte de vida estable als fills.|
 | Expectatives |  |
 | Capacitat d'adaptació | obligats a compartir pis, allunyar-se del centre (hores de transport) o reduir la mida de la llar. |
 
