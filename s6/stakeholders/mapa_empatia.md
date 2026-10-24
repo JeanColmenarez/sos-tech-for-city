@@ -58,12 +58,12 @@ A l' àrea metropolitana de Barcelona hi ha problemes amb l' accecibilitat a la 
 
 | Camp | Descripció |
 | --- | --- |
-| Descripció del perfil | Famílies amb ingressos baixos o inestables que tenen dificultats per pagar un lloguer o comprar un habitatge. |
-| Com els afecta el problema | El cost de l'habitatge pot representar una part molt elevada dels ingressos familiars i dificultar cobrir altres necessitats bàsiques. |
-| Necessitats | Habitatges assequibles, ajudes al lloguer, habitatge social i estabilitat residencial. |
-| Frustracions / pors | No poder pagar les despeses de l'habitatge, acumular deutes o perdre la casa. |
+| Descripció del perfil | Són els principals afectats ja que tothom necesita una vivenda per viure i és un dret fonamental per a tots.|
+| Com els afecta el problema |Té un impacte en l' economia de la familia, en l' estat de salut. Destinen més del 40-50% dels ingressos a la llar, impossibilitant l'estalvi, limitant la natalitat |
+| Necessitats |És necessita que es resolgui el tema dels preus de la vivenda o pujar els sous ja que estan molt descompensats |
+| Frustracions / pors | Por a no poder renovar el contracte de lloguer i dificultat d'oferir un projecte de vida estable als fills.|
 | Expectatives | Rebre suport econòmic i poder accedir a un habitatge digne i estable. |
-| Capacitat d'adaptació | Baixa, perquè disposen de pocs recursos per afrontar pujades de preus o canvis d'habitatge. |
+| Capacitat d'adaptació | obligats a compartir pis, allunyar-se del centre (hores de transport) o reduir la mida de la llar. |
 
 ## Perfil: Propietaris d'habitatges
 
