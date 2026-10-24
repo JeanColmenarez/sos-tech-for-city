@@ -1,4 +1,4 @@
-# Mapatge de skateholders - El problema de la vivenda / Equip: Daniel, Adam i Jean Piero
+# Mapatge de stakeholders - El problema de la vivenda / Equip: Daniel, Adam i Jean Piero
 
 ## Problema detectat
 A l' àrea metropolitana de Barcelona hi ha problemes amb l' accecibilitat a la vivenda a causa de diferents motius ja sigui per els preus o per la quantitat de gent molt superior a la quantitat de vivendes.
