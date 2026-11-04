@@ -2,7 +2,7 @@
 És dificil adquirir un pis propi.
 
 **A qui li passa?**
-A tots aquells que es volen independitzar i que volen adquirir una vivenda.
+A tots aquells que es volen independitzar (entre ells els joves) i que volen adquirir una vivenda. 
 
 **On passa?**
 Aquest problema passa a tota Espanya, pero ens centrarem en analitzar-ho en l’area metropolitana de Barcelona.
@@ -18,6 +18,6 @@ Buscar oportunitats en municipis propers a Barcelona amb millors preus.
 - Rehabilitar habitatges abandonats o en mal estat per tornar-los a posar al mercat.
 
 **Propostes amb tecnologia com a palanca**
-Web/buscador de pisos per buscar pisos a un preu baix.
-Web que segons la situacio de la persona, li dongui les ajudes, relacionades amb l’habitatge que li puguin servir.
-Mapa de pisos buits, que es puguin rehabilitar.
+- Web/buscador de pisos per buscar pisos a un preu baix.
+- Web que segons la situacio de la persona, li dongui les ajudes, relacionades amb l’habitatge que li puguin servir.
+- Mapa de pisos buits, que es puguin rehabilitar.
